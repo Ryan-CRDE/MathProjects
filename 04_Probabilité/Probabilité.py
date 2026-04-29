@@ -1,3 +1,4 @@
+# Import
 import random
 import statistics
 import matplotlib.pyplot as plt
